@@ -1,0 +1,7 @@
+{
+  "name": "Indigenous Genius Portal",
+  "description": "A culturally grounded healing circle portal for the SRPMIC community, featuring participant onboarding, weekly digital worksheets, and AI-powered impact reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
